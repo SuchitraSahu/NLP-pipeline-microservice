@@ -1,0 +1,151 @@
+id,text_snippet,labels,cleaned_text
+1,The renewal cost is higher than we expected. Can it be negotiable?,"Objection, Pricing Discussion",renewal cost higher expected negotiable
+2,Trends show that CompetitorZ is more secure compared to CompetitorY.,Competition,trends show competitorz secure compared competitory
+3,Does your AI engine support all our needs?,Objection,ai engine support needs
+4,"We love the analytics, but CompetitorX has a cheaper subscription.","Objection, Competition",love analytics competitorx cheaper subscription
+5,Our compliance team is worried about data handling. Are you SOC2 certified?,Security,compliance team worried data handling soc2 certified
+6,The renewal cost is higher than we expected. Can it be negotiable?,"Pricing Discussion, Objection",renewal cost higher expected negotiable
+7,The AI engine feature is impressive.,Competition,ai engine feature impressive
+8,"We love the analytics, but CompetitorX has a cheaper subscription.","Objection, Pricing Discussion",love analytics competitorx cheaper subscription
+9,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+10,Does your AI engine support all our needs?,Objection,ai engine support needs
+11,How secure is the data pipeline of each of the competitors?,"Security, Competition",secure data pipeline competitors
+12,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+13,The AI engine feature is impressive.,Competition,ai engine feature impressive
+14,Can we get a discount on renewal cost?,"Objection, Pricing Discussion",get discount renewal cost
+15,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+16,CompetitorY is offering a discount for first-time customers.,Competition,competitory offering discount firsttime customers
+17,How secure is the data pipeline of each of the competitors?,Security,secure data pipeline competitors
+18,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+19,Can we get a discount on renewal cost?,"Pricing Discussion, Objection",get discount renewal cost
+20,Our compliance team is worried about data handling. Are you SOC2 certified?,Security,compliance team worried data handling soc2 certified
+21,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+22,Does your AI engine support all our needs?,Objection,ai engine support needs
+23,The AI engine feature is impressive.,Competition,ai engine feature impressive
+24,Can you adjust the price according to our budget?,Pricing Discussion,adjust price according budget
+25,Trends show that CompetitorZ is more secure compared to CompetitorY.,Security,trends show competitorz secure compared competitory
+26,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+27,We are evaluating pricing models from multiple competitors.,"Pricing Discussion, Competition",evaluating pricing models multiple competitors
+28,Can you adjust the price according to our budget?,Pricing Discussion,adjust price according budget
+29,Does your AI engine support all our needs?,Objection,ai engine support needs
+30,The AI engine feature is impressive.,Competition,ai engine feature impressive
+31,Does your AI engine support all our needs?,Objection,ai engine support needs
+32,How secure is the data pipeline of each of the competitors?,Competition,secure data pipeline competitors
+33,The renewal cost is higher than we expected. Can it be negotiable?,Objection,renewal cost higher expected negotiable
+34,Our compliance team is worried about data handling. Are you SOC2 certified?,Security,compliance team worried data handling soc2 certified
+35,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+36,Our compliance team is worried about data handling. Are you SOC2 certified?,Security,compliance team worried data handling soc2 certified
+37,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+38,Trends show that CompetitorZ is more secure compared to CompetitorY.,"Competition, Security",trends show competitorz secure compared competitory
+39,We are evaluating pricing models from multiple competitors.,Competition,evaluating pricing models multiple competitors
+40,Can we get a discount on renewal cost?,"Objection, Pricing Discussion",get discount renewal cost
+41,The renewal cost is higher than we expected. Can it be negotiable?,"Pricing Discussion, Objection",renewal cost higher expected negotiable
+42,How secure is the data pipeline of each of the competitors?,Security,secure data pipeline competitors
+43,Can you adjust the price according to our budget?,"Objection, Pricing Discussion",adjust price according budget
+44,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+45,We are evaluating pricing models from multiple competitors.,Competition,evaluating pricing models multiple competitors
+46,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+47,Our compliance team is worried about data handling. Are you SOC2 certified?,Security,compliance team worried data handling soc2 certified
+48,We are evaluating pricing models from multiple competitors.,Competition,evaluating pricing models multiple competitors
+49,How secure is the data pipeline of each of the competitors?,Competition,secure data pipeline competitors
+50,How secure is the data pipeline of each of the competitors?,"Competition, Security",secure data pipeline competitors
+51,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Objection, Competition",love analytics competitorx cheaper subscription
+52,"We love the analytics, but CompetitorX has a cheaper subscription.",Competition,love analytics competitorx cheaper subscription
+53,CompetitorY is offering a discount for first-time customers.,"Pricing Discussion, Competition",competitory offering discount firsttime customers
+54,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Pricing Discussion",love analytics competitorx cheaper subscription
+55,Can we get a discount on renewal cost?,Objection,get discount renewal cost
+56,Does your AI engine support all our needs?,Objection,ai engine support needs
+57,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+58,Can you adjust the price according to our budget?,Pricing Discussion,adjust price according budget
+59,Does your AI engine support all our needs?,Objection,ai engine support needs
+60,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+61,The AI engine feature is impressive.,Competition,ai engine feature impressive
+62,How secure is the data pipeline of each of the competitors?,"Competition, Security",secure data pipeline competitors
+63,We are evaluating pricing models from multiple competitors.,"Competition, Pricing Discussion",evaluating pricing models multiple competitors
+64,Trends show that CompetitorZ is more secure compared to CompetitorY.,Security,trends show competitorz secure compared competitory
+65,How secure is the data pipeline of each of the competitors?,"Competition, Security",secure data pipeline competitors
+66,Can you adjust the price according to our budget?,"Pricing Discussion, Objection",adjust price according budget
+67,The AI engine feature is impressive.,Competition,ai engine feature impressive
+68,We are evaluating pricing models from multiple competitors.,Pricing Discussion,evaluating pricing models multiple competitors
+69,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+70,"We love the analytics, but CompetitorX has a cheaper subscription.","Objection, Pricing Discussion, Competition",love analytics competitorx cheaper subscription
+71,The AI engine feature is impressive.,Competition,ai engine feature impressive
+72,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Objection",love analytics competitorx cheaper subscription
+73,The AI engine feature is impressive.,Competition,ai engine feature impressive
+74,We are evaluating pricing models from multiple competitors.,"Competition, Pricing Discussion",evaluating pricing models multiple competitors
+75,The AI engine feature is impressive.,Competition,ai engine feature impressive
+76,The renewal cost is higher than we expected. Can it be negotiable?,Objection,renewal cost higher expected negotiable
+77,Does your AI engine support all our needs?,Objection,ai engine support needs
+78,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+79,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+80,Trends show that CompetitorZ is more secure compared to CompetitorY.,Security,trends show competitorz secure compared competitory
+81,The renewal cost is higher than we expected. Can it be negotiable?,Pricing Discussion,renewal cost higher expected negotiable
+82,Does your AI engine support all our needs?,Objection,ai engine support needs
+83,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+84,Trends show that CompetitorZ is more secure compared to CompetitorY.,Competition,trends show competitorz secure compared competitory
+85,CompetitorY is offering a discount for first-time customers.,Pricing Discussion,competitory offering discount firsttime customers
+86,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+87,How secure is the data pipeline of each of the competitors?,Competition,secure data pipeline competitors
+88,The AI engine feature is impressive.,Competition,ai engine feature impressive
+89,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Pricing Discussion, Objection",love analytics competitorx cheaper subscription
+90,We are evaluating pricing models from multiple competitors.,Competition,evaluating pricing models multiple competitors
+91,CompetitorY is offering a discount for first-time customers.,Pricing Discussion,competitory offering discount firsttime customers
+92,Can we get a discount on renewal cost?,"Objection, Pricing Discussion",get discount renewal cost
+93,We are evaluating pricing models from multiple competitors.,Competition,evaluating pricing models multiple competitors
+94,Can you adjust the price according to our budget?,"Objection, Pricing Discussion",adjust price according budget
+95,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+96,Does your AI engine support all our needs?,Objection,ai engine support needs
+97,The AI engine feature is impressive.,Competition,ai engine feature impressive
+98,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+99,CompetitorY is offering a discount for first-time customers.,"Pricing Discussion, Competition",competitory offering discount firsttime customers
+100,The AI engine feature is impressive.,Competition,ai engine feature impressive
+101,How secure is the data pipeline of each of the competitors?,Competition,secure data pipeline competitors
+102,How secure is the data pipeline of each of the competitors?,Security,secure data pipeline competitors
+103,Can you adjust the price according to our budget?,"Objection, Pricing Discussion",adjust price according budget
+104,The AI engine feature is impressive.,Competition,ai engine feature impressive
+105,Our compliance team is worried about data handling. Are you SOC2 certified?,Security,compliance team worried data handling soc2 certified
+106,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+107,How secure is the data pipeline of each of the competitors?,Competition,secure data pipeline competitors
+108,CompetitorY is offering a discount for first-time customers.,Competition,competitory offering discount firsttime customers
+109,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Objection",love analytics competitorx cheaper subscription
+110,We are evaluating pricing models from multiple competitors.,"Competition, Pricing Discussion",evaluating pricing models multiple competitors
+111,CompetitorY is offering a discount for first-time customers.,"Pricing Discussion, Competition",competitory offering discount firsttime customers
+112,Can we get a discount on renewal cost?,"Pricing Discussion, Objection",get discount renewal cost
+113,Can you adjust the price according to our budget?,"Pricing Discussion, Objection",adjust price according budget
+114,CompetitorY is offering a discount for first-time customers.,Pricing Discussion,competitory offering discount firsttime customers
+115,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+116,Trends show that CompetitorZ is more secure compared to CompetitorY.,Competition,trends show competitorz secure compared competitory
+117,Our compliance team is worried about data handling. Are you SOC2 certified?,Security,compliance team worried data handling soc2 certified
+118,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Objection",love analytics competitorx cheaper subscription
+119,CompetitorY is offering a discount for first-time customers.,Pricing Discussion,competitory offering discount firsttime customers
+120,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Objection, Competition",love analytics competitorx cheaper subscription
+121,CompetitorY is offering a discount for first-time customers.,Pricing Discussion,competitory offering discount firsttime customers
+122,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+123,The renewal cost is higher than we expected. Can it be negotiable?,"Objection, Pricing Discussion",renewal cost higher expected negotiable
+124,How secure is the data pipeline of each of the competitors?,"Security, Competition",secure data pipeline competitors
+125,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+126,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+127,Can you adjust the price according to our budget?,Pricing Discussion,adjust price according budget
+128,The AI engine feature is impressive.,Competition,ai engine feature impressive
+129,Trends show that CompetitorZ is more secure compared to CompetitorY.,"Competition, Security",trends show competitorz secure compared competitory
+130,Does your AI engine support all our needs?,Objection,ai engine support needs
+131,Does your AI engine support all our needs?,Objection,ai engine support needs
+132,The AI engine feature is impressive.,Competition,ai engine feature impressive
+133,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+134,Can you adjust the price according to our budget?,"Pricing Discussion, Objection",adjust price according budget
+135,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+136,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Objection, Competition",love analytics competitorx cheaper subscription
+137,The AI engine feature is impressive.,Competition,ai engine feature impressive
+138,CompetitorX's analytics include advanced prediction. Can you provide that?,Competition,competitorxs analytics include advanced prediction provide
+139,Our data needs top-notch security. Can you provide us with that?,Security,data needs topnotch security provide us
+140,Does your AI engine support all our needs?,Objection,ai engine support needs
+141,The AI engine feature is impressive.,Competition,ai engine feature impressive
+142,Can you adjust the price according to our budget?,Pricing Discussion,adjust price according budget
+143,How secure is the data pipeline of each of the competitors?,Security,secure data pipeline competitors
+144,Does your AI engine support all our needs?,Objection,ai engine support needs
+145,Can you adjust the price according to our budget?,Objection,adjust price according budget
+146,We are evaluating pricing models from multiple competitors.,"Pricing Discussion, Competition",evaluating pricing models multiple competitors
+147,The AI engine feature is impressive.,Competition,ai engine feature impressive
+148,We are evaluating pricing models from multiple competitors.,Competition,evaluating pricing models multiple competitors
+149,Can you adjust the price according to our budget?,"Pricing Discussion, Objection",adjust price according budget
+150,Can you adjust the price according to our budget?,"Pricing Discussion, Objection",adjust price according budget
