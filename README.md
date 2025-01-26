@@ -10,8 +10,6 @@ This repository contains the code for a multi-label classification and entity ex
 - [Installation](#installation)
 - [Task 1 & 2: Google Colab Setup](#task-1--2-google-colab-setup)
 - [Task 3: Docker Setup](#task-3-docker-setup)
-- [API Usage](#api-usage)
-- [Error Analysis](#error-analysis)
 
 
 ## Installation
